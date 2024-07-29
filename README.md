@@ -1,1 +1,1 @@
-# Ramanjeet-Kaur
+Brain_Tumor_Detection_Using MRI Scans
