@@ -1,5 +1,5 @@
 
-# BRAIN MRI FOR BRAIN TUMOUR DETECTION
+# BRAIN MRI  SCANS FOR BRAIN TUMOUR DETECTION
 
 ## Note
 The paths for the datasets in the Python scripts are set according to my system configuration. Adjust the paths in the Python scripts according to your dataset directory before executing. Run the scripts to detect brain tumors from MRI images, using the neural network models specified.
